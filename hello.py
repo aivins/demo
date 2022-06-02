@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
-print("Hello world!")
+print("HELLO WORLD!")
 print("This version is an enhanced version!")
