@@ -2,7 +2,6 @@
 
 Yep, it sure is.
 
-## Better documentation
+## Awesome documentation
 
-
-dfdsfdsfd
+This is the best documentation in the world.
