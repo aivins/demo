@@ -8,4 +8,4 @@ This is the best documentation in the world.
 
 ## Enhanced mode
 
-Hello world is now on steroids and prints out TWO lines!
+Hello world is now on steroids and prints out TWO lines! It is also more friendly.
