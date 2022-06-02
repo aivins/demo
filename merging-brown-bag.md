@@ -22,7 +22,6 @@ Turn it into a git repo with "git init".
 # Local commits
 
 Demonstrate changes live in an editor.
-Consider skipping anything to do with staging.
 Demonstrate a trivial string of commits.
 Show the git log.
 Show a diff between commits.
